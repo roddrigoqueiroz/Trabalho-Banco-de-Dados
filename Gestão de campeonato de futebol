@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T20:07:03.676Z" agent="5.0 (X11; Ubuntu)" etag="qHHdCUOqlBz3Yk7lncH1" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-18T20:08:22.508Z" agent="5.0 (X11; Ubuntu)" etag="UQH3s9Fao_uxjbTFkxrT" version="21.0.8" type="github">
   <diagram name="Page-1" id="VcerfDXuCfpgNxA3adZR">
-    <mxGraphModel dx="1240" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="701" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -531,10 +531,7 @@
         <mxCell id="d4YX3NlfEZjm1EnpamBD-9" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1320" y="846.5403703703704" as="geometry" />
         </mxCell>
-        <mxCell id="d4YX3NlfEZjm1EnpamBD-10" value="gols na partida" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1435.63" y="870" width="101.87" height="32.21" as="geometry" />
-        </mxCell>
-        <mxCell id="d4YX3NlfEZjm1EnpamBD-11" value="gols na partida" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+        <mxCell id="d4YX3NlfEZjm1EnpamBD-11" value="gols do time" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="827.5" y="410.02" width="101.87" height="32.21" as="geometry" />
         </mxCell>
       </root>
