@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T20:08:22.508Z" agent="5.0 (X11; Ubuntu)" etag="UQH3s9Fao_uxjbTFkxrT" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-18T20:19:56.360Z" agent="5.0 (X11; Ubuntu)" etag="8J7FNiWMBcyFoWcfUnWX" version="21.0.8" type="github">
   <diagram name="Page-1" id="VcerfDXuCfpgNxA3adZR">
     <mxGraphModel dx="701" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
             <mxPoint x="1477.5" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Oas_C1RtUHwmp-cQ65WI-122" value="Gols marcados" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="Oas_C1RtUHwmp-cQ65WI-122" value="Gol marcado" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1066.25" y="823.09" width="122.5" height="46.91" as="geometry" />
         </mxCell>
         <mxCell id="Oas_C1RtUHwmp-cQ65WI-123" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Oas_C1RtUHwmp-cQ65WI-115" target="Oas_C1RtUHwmp-cQ65WI-122" edge="1">
@@ -397,7 +397,7 @@
         <mxCell id="d_qZnpgpOudbql3pG38p-19" value="endereço" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1562.5" y="320" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="d_qZnpgpOudbql3pG38p-22" value="Cartões recebidos" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="d_qZnpgpOudbql3pG38p-22" value="Cartão recebido" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="1065" y="918.09" width="122.5" height="46.91" as="geometry" />
         </mxCell>
         <mxCell id="d_qZnpgpOudbql3pG38p-24" value="hora do cartão" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
@@ -522,17 +522,23 @@
         <mxCell id="d4YX3NlfEZjm1EnpamBD-6" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1200" y="756.9103703703704" as="geometry" />
         </mxCell>
-        <mxCell id="d4YX3NlfEZjm1EnpamBD-7" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
+        <mxCell id="d4YX3NlfEZjm1EnpamBD-7" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1417.5" y="740.0003703703704" as="geometry" />
         </mxCell>
         <mxCell id="d4YX3NlfEZjm1EnpamBD-8" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="970" y="846.5403703703704" as="geometry" />
         </mxCell>
-        <mxCell id="d4YX3NlfEZjm1EnpamBD-9" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
+        <mxCell id="d4YX3NlfEZjm1EnpamBD-9" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
           <mxGeometry x="1320" y="846.5403703703704" as="geometry" />
         </mxCell>
         <mxCell id="d4YX3NlfEZjm1EnpamBD-11" value="gols do time" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="827.5" y="410.02" width="101.87" height="32.21" as="geometry" />
+        </mxCell>
+        <mxCell id="d4YX3NlfEZjm1EnpamBD-12" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="970" y="941.5403703703704" as="geometry" />
+        </mxCell>
+        <mxCell id="d4YX3NlfEZjm1EnpamBD-13" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="1320" y="941.5403703703704" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
