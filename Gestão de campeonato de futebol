@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-19T22:19:12.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="PCpN21TmqFh_FPHLkY_5" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-19T22:25:39.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="HxaLqlB76tmzUqjFj9WL" version="21.0.8" type="github">
   <diagram name="Page-1" id="VcerfDXuCfpgNxA3adZR">
-    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="677" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,12 +21,6 @@
         </mxCell>
         <mxCell id="Oas_C1RtUHwmp-cQ65WI-110" value="Profissional" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="545" y="520" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Oas_C1RtUHwmp-cQ65WI-111" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="Oas_C1RtUHwmp-cQ65WI-110" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="605" y="590" as="sourcePoint" />
-            <mxPoint x="525" y="515" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Oas_C1RtUHwmp-cQ65WI-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.333;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Oas_C1RtUHwmp-cQ65WI-113" target="h-JmH1JirVPSn6hogVKY-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -559,6 +553,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="840" as="sourcePoint" />
             <mxPoint x="910" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-e4JOngFLjqI5HC7WRs-1" value="" style="endArrow=none;html=1;rounded=0;shape=link;width=3.0769230769230766;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="605" y="580" as="sourcePoint" />
+            <mxPoint x="604.62" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
